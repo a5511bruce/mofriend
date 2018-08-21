@@ -84,7 +84,7 @@ DATABASES = {
         'USER': 'root',  # Not used with sqlite3.
         'PASSWORD': '2018Sdvm',  # Not used with sqlite3.
         'HOST': '127.0.0.1',  # Set to empty string for localhost. Not used with sqlite3.
-        'PORT': '3306',
+        'PORT': '',
     }
 }
 
